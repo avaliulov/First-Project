@@ -121,6 +121,7 @@ ul.skills {
 }
 
 footer {
+  clear: both;
   width: 100%;
   min-height: 30px;
   padding: 20px 0 40px 20px;
